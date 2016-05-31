@@ -12,5 +12,5 @@ TESTOBJECT_DEVICE
 TESTOBJECT_APPIUM_VERSION
 ```
 
-You can the run the tests with:
+You can then run the tests with:
 `npm test`
