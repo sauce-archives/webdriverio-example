@@ -1,3 +1,6 @@
+> **NOTE:<br/>**
+> This repo is not being maintained anymore
+
 # WebdriverIO example
 This is an example webdriverio test that runs on TestObject.
 
